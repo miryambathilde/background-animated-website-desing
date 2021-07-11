@@ -19,7 +19,7 @@
 }
 
 .logo {
-  width: 120px;
+  width: 180px;
   cursor: pointer;
 }
 
@@ -49,4 +49,10 @@ button {
   left: 8%;
   transform: translateY(-50%);
   z-index: 2;
+}
+
+h1 {
+  font-size: 82px;
+  margin: 20px 0px 30px;
+  line-height: 80px;
 }
