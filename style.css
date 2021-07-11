@@ -31,3 +31,13 @@
   align-items: center;
   justify-content: space-between;
 }
+
+button {
+  color: #fbfcfd;
+  padding: 10px 25px;
+  background: transparent;
+  border: 1.5px solid #fff;
+  border-radius: 25px;
+  outline: none;
+  cursor: pointer;
+}
